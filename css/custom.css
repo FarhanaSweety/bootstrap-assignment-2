@@ -1,0 +1,130 @@
+.btn{
+	background:white;
+	color:grey;
+}
+.btn:hover{
+     background: #dad3d3;
+}
+}
+.btn:focus{
+	outline: 0;
+}
+.banner-section{
+	background:#000 url('../images/keyboardbanner.jpg');
+	min-height: 100vh;
+	background-size: cover;
+}
+.row{
+	align-items: center;
+	
+}
+
+.vh-100{
+	min-height: 100vh;
+}
+
+form{}
+
+.form-control:focus{
+
+}
+
+.register{
+	color:black;
+    padding: 30px;
+    align-items: left;
+}
+.register h3{}
+.register p{}
+
+
+.android{
+	background: #f5eeee;
+    text-align: center;
+    margin-left: 20px;
+    padding: 10px;
+}
+.android:hover{
+	background: white;
+}
+
+.ios{
+	background: #f5eeee;
+    text-align: center;
+    margin-left: 50px;
+    padding: 10px;
+}
+.ios:hover{
+	background: white;
+}
+
+.development-section{
+	margin-top: 100px;
+	margin-bottom: 100px;
+   
+}
+.dcontent{}
+.dcontent h1{
+	border: 1px solid;
+    width: 50px;
+    text-align: center;
+    border-radius: 50%;
+}
+.thanks-section{
+	background:#fff8f8;
+}
+	
+
+
+.img-back{}
+.thanksnote{
+	margin-right: 160px;
+}
+
+.team-section{
+	margin-top: 100px;
+	margin-bottom: 100px;
+    
+}
+.team-content{
+	align-items: center
+}
+.team-content img{
+	 margin-bottom: 20px;
+}
+.social{
+
+}
+.social ul{}
+.social ul li{
+	list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 5px;
+}
+.social ul li a{
+    color: grey;
+}
+.future{
+	background:#fff8f8;
+}
+
+.question-section{}
+.question-section h1{}
+
+.gang{
+     margin: 100px;
+}
+.gang a{
+	font-size: 20px;
+    background: #eaa72a;
+    color: black;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.gang a:hover{
+	background: #d0bdbd;
+}
+.footer{
+    padding: 30px;
+}
